@@ -12,7 +12,7 @@ These tools are opinionated.
 
 | Name | What it does | More... |
 | ---- | ------------ | :------ |
-| Better Equipment Inventory | Interacting with the "Equipment Inventory" tool, this feature allows you to enter simply the number of equipment (i.e., DC<strong>1234</strong>K as simply <strong>1234</strong>) to match it against the list, allowing for *much faster* completion of inventory. | Coming Soon |
+| Better Equipment Inventory | Interacting with the "Equipment Inventory" tool, this feature allows you to enter simply the number of equipment (i.e., DC<strong>1234</strong>K as simply <strong>1234</strong>) to match it against the list, allowing for *much faster* completion of inventory. | [Download](https://github.com/htmlarson/uhaul-field-tools/raw/main/QuiInventory/Quinventory.shortcut) |
 | Quick Inventory Resolve | After completing equipment inventory, this allows you to sort thru the list<em>way more quickly,</em> by reducing it to what it should have been all along: what is "on rental" but is on lot, and needs to be checked in; what should be on the lot but isn't. The results are put in an iOS note. | Coming Soon |
 | Add Multiple to Cycle Count | A straightforward way to add many parts to the cycle count at once | Coming Soon |
 | Better Hitch Source Report | The classic hitch sourcing report with two main improvements: tracking links are now clickable, and you can now tap on the part number to find fit details and possible alternate part numbers. | Coming Soon |
