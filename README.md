@@ -17,4 +17,4 @@ These tools are opinionated.
 | Add Multiple to Cycle Count | A straightforward way to add many parts to the cycle count at once | Coming Soon |
 | Better Hitch Source Report | The classic hitch sourcing report with two main improvements: tracking links are now clickable, and you can now tap on the part number to find fit details and possible alternate part numbers. | Coming Soon |
 | Hookup Photo | An opinionated tool is intended to stitch together two things: the hookup photo, and a photo of the equipmet number -- so they can be more easilly found later. This tool has helped my store stay at 100% hookup photo percentage. It can also save the photos to a specific photo album, so you can delete old photos faster.  | Coming Soon |
-| Clear Overdue L1 | For GM/AFM only, this allows you to click the "Clear Level 1" checkbox on all the rows if you're confident they've already been completed.  | Coming Soon |
+| Clear Level 1 List | For GM/AFM only, this allows you to click the "Clear Level 1" checkbox on all the rows if you're confident they've already been completed.  | Coming Soon |
