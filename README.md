@@ -14,7 +14,7 @@ On your iPhone or iPad, download the file and open it in the Shortcuts App.
 
 Tap "Add Shortcut" to contine. 
 
-![How To Install](https://file+.vscode-resource.vscode-cdn.net/Users/andrewlarson/Documents/GitHub/uhaul-field-tools/how_to_install.gif)
+![How To Install](https://github.com/htmlarson/uhaul-field-tools/raw/main/how_to_install.gif)
 
 To use the shortcut, "Share" the webpage with the shortcut. 
 
