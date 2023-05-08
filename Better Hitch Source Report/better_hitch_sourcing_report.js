@@ -4,7 +4,7 @@ var rows = table.querySelectorAll("tr");
 var x = 1;
 var y = rows.length;
 
-while(x < y) {
+while (x < y) {
     var cell = rows[x].querySelectorAll("td")[8];
     console.log(cell);
     var cellText = cell.innerText;

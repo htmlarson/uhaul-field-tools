@@ -8,6 +8,16 @@ Most of these tools are designed to be used in Apple's Shortcuts for iOS, and ar
 
 These tools are opinionated.
 
+## How to install
+
+On your iPhone or iPad, download the file and open it in the Shortcuts App.
+
+Tap "Add Shortcut" to contine. 
+
+![How To Install](https://file+.vscode-resource.vscode-cdn.net/Users/andrewlarson/Documents/GitHub/uhaul-field-tools/how_to_install.gif)
+
+To use the shortcut, "Share" the webpage with the shortcut. 
+
 ## The tools
 
 | Name | What it does | More... |
