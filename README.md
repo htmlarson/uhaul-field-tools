@@ -1,6 +1,6 @@
-# uhaul-field-tools
+# U-Haul Field Tools
 
-Tools designed for iOS Shortcuts, allowing for more functionality that I wish existed.
+Tools designed for iOS Shortcuts, made independently by me, allowing for more functionality that I wish existed.
 
 ## How to use these tools
 
